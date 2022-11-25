@@ -5,7 +5,7 @@ export const Footer = () => {
         <>
             <footer
                 style={{
-                    backgroundColor: '#383838',
+                    backgroundColor: '#041617',
                     paddingBottom: 15,
                     paddingTop: 15,
                 }}
@@ -15,7 +15,7 @@ export const Footer = () => {
                     style={{
                         color:"#fff"
                     }}
-                >Desenvolvido por seu nome:D - {new Date().getFullYear()}</p>
+                >Desenvolvido por Ana e Daniel - {new Date().getFullYear()}</p>
 
                 <div
                     className="d-flex justify-content-center"

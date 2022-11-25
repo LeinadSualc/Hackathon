@@ -1,0 +1,17 @@
+div.card{
+    background-color: #041617
+
+}
+
+.card {
+    color: #087a8b;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    width: 250px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.card:hover {
+    filter: brightness(1.3.);
+}

@@ -7,7 +7,8 @@ export const Menu = ({ paginaAtual }) => {
     return (
         <>
             <nav
-                className="navbar navbar-expand-lg navbar-light bg-light"
+                className="navbar navbar-expand-lg"
+
             >
                 <div
                     className="container-fluid"
@@ -26,6 +27,7 @@ export const Menu = ({ paginaAtual }) => {
                                 <Link
                                     className={`nav-link ${paginaAtual === 'Home' && 'active'}`}
                                     to="/"
+                                    style={{ color: '#FFF' }}
                                 >
                                     Home
                                 </Link>
@@ -33,31 +35,17 @@ export const Menu = ({ paginaAtual }) => {
                             <li
                                 className="nav-item"
                             >
-                                <Link
-                                    className={`nav-link ${paginaAtual === 'QuemSomos' && 'active'}`}
-                                    to="/quemsomos"
-                                >
-                                    Quem somos
-                                </Link>
+
                             </li>
                             <li
                                 className="nav-item"
                             >
                                 <Link
-                                    className={`nav-link ${paginaAtual === 'Contato' && 'active'}`}
-                                    to="/contato"
+                                    className={`nav-link ${paginaAtual === 'Personagens' && 'active'}`}
+                                    to="/personagens"
+                                    style={{ color: '#FFF' }}
                                 >
-                                    Contato
-                                </Link>
-                            </li>
-                            <li
-                                className="nav-item"
-                            >
-                                <Link
-                                    className={`nav-link ${paginaAtual === 'ListarEmail' && 'active'}`}
-                                    to="/listagem"
-                                >
-                                    Listar Email
+                                    Personagens
                                 </Link>
                             </li>
                         </ul>

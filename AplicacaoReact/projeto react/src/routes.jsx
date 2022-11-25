@@ -1,8 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import { Contato } from './pages/Contato';
+import { Personagens } from './pages/Personagens';
 import { Home } from './pages/Home';
-import { QuemSomos } from './pages/QuemSomos';
-import { ListarEmail } from './pages/ListarEmail';
 
 const Rotas = () => {
     return(
@@ -12,18 +10,12 @@ const Rotas = () => {
                     path='/'
                     element={<Home />}
                 />
+
                 <Route 
-                    path='/quemsomos'
-                    element={<QuemSomos />}
+                    path='/personagens'
+                    element={<Personagens />}
                 />
-                <Route 
-                    path='/contato'
-                    element={<Contato />}
-                />
-                <Route 
-                    path='/listagem'
-                    element={<ListarEmail />}
-                />
+
             </Routes>
         </BrowserRouter>
     )
