@@ -1,6 +1,6 @@
 # Hackathon 
 
-Nós desenvolvemos nossas aplicações com base na API do Rick and Morty que se encontra disponível no link: https://rickandmortyapi.com/
+Nós desenvolvemos nossas aplicações com base na API do Rick and Morty que se encontra disponível no link: https://rickandmortyapi.com/.
 
 <h2>#Projeto React</h2>
   <br><p> - Nós desenvolvemos uma aplicação em react com duas telas sendo uma delas a página home e a outra a página personagens.</p>
