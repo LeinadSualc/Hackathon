@@ -13,6 +13,6 @@ Nós desenvolvemos nossas aplicações com base na API do Rick and Morty que se 
 <h2>#Projeto Android</h2>
    <br><p> - O aplicativo android foi desenvolvido dentro do programa Android Studio usando a linguagem java, esse aplicativo possui 5 telas sendo elas:</p>
        <p> - A tela inicial, que a partir dela você pode acessar a tela "personagens" ou "episodeos".</p>
-       <p> - A tela episodeos, onde você pode selecionar um episodio de sua escolha e será redirecionado para a tela de detalhes com os detalhes do episodio selecionado.</p>
+       <p> - A tela episodeos, onde será listado os episodios da série, você pode selecionar um episodio de sua escolha e ao clicar será redirecionado para a tela de detalhes, mostrando os detalhes do episodio selecionado.</p>
        <p> - A tela personagens, onde você pode selecionar um personagem de sua escolha e será redirecionado para outra tela com os detalhes do personagem selecionado.</p>
      
