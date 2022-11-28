@@ -16,5 +16,5 @@ Nós desenvolvemos nossas aplicações com base na API do Rick and Morty que se 
        <p> - A tela episódios, onde será listado os episódios da série, você pode selecionar um episódio de sua escolha e ao clicar será redirecionado para os detalhes do episódio selecionado.</p>
        <p> - A tela personagens, onde será listado os personagens da série, você pode selecionar um personagem de sua escolha e ao clicar será redirecionado para os detalhes do personagem selecionado.</p>
        <p> - Cuidados para executar o projeto androide:</p>
-       <p> - Antes de executar o projeto vá no menu "File" e selecione a opção "Sync Project with Gradle Files" após sincronizar o projeto va até as configurações do emulador e selecione o modo "Wipe Data" é isso Boa sorte :)</p>
+       <p> - Antes de executar o projeto vá no menu "File" e selecione a opção "Sync Project with Gradle Files" após sincronizar o projeto va até as configurações do emulador e selecione o modo "Wipe Data" é isso Boa sorte :) </p>
      
