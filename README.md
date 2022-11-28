@@ -1,6 +1,6 @@
 # Hackathon 
 
 #Projeto React
-  <br>Nós desenvolvemos uma aplicação em react baseada na API do Rick and Morty
+  <br><p>Nós desenvolvemos uma aplicação em react baseada na API do Rick and Morty</p>
 
 #Projeto Android
