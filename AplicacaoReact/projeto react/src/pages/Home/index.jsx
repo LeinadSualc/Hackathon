@@ -37,6 +37,8 @@ export const Home = () => {
             <div
                 className='container'
             >
+                <h4 className='text-center'>Sinopse</h4>
+                <p className='text-center'>O show gira em torno das aventuras dos membros da família Smith, que consiste nos pais Jerry e Beth, seus filhos Summer e Morty, e o pai de Beth, chamado Rick Sanchez, que mora com eles como hóspede. De acordo com Justin Roiland, a família mora fora da cidade de Seattle, no estado norte-americano de Washington.</p>
 
                 <div
                     className='d-flex justify-content-around'
